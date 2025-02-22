@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       88123d7d-7d73-48b8-9129-e719a9f33932
+:END:
+#+TITLE: Web Architecture
+#+DATE: [2025-02-22 Sat 19:20]
+#+FILETAGS: :architecture:web:tanmai:
+
+#+DESCRIPTION:
+
+* Heading1:
+** Heading 2:
+- Come on man
+  * What is this why is it not wokring
+    * Heading 3:
+      *** headin
+
+* Heading2:
+
+
+* Heading 3:
+
+* Heading3:
+** Subheading:
+** Subheading3``:
+
+
+* Heading 1:
+* Heading 2:
+** Subheading
+** Subeadhing
+* Heading1:
+
+* Microservic:
+- Related Topic: [[file:microservices.org][microservices]]
