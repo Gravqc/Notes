@@ -1,0 +1,16 @@
+#+TITLE: Email Service
+#+DATE: [2025-02-23]
+#+FILETAGS: :email:platform:
+#+DESCRIPTION: This file contains information about the email verification service.
+
+* Techstack:
+- Since truemail is written in golang, we can think of writing this service in golang itself.
+
+* Libraries:
+- Smtp: Protocol used to send email
+  NOTE: If you are sending from a goole gmail account you would need to configure an app password for that account to send email.
+
+- Cool at coding:
+
+* Heading 1:
+** More coll way.

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       317355c9-f580-44f2-97c4-3373faef3fee
+:END:
+#+TITLE: Platform-X
+#+DATE: [2025-02-23 Sun 18:41]
+#+FILETAGS: :unfiled:
+#+DESCRIPTION: This file contains the info regarding the anonymous verfied platform
+
+* Open Source Email Service:
+** Purpose:
+- This is an open source email verfier.
+** OpenSource
+** Usecase:
+- Domain verfication.
+- Email verification using otp.
+** Link:
+- [[file:Email-Service.org][Email-Service]]

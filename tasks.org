@@ -11,13 +11,16 @@
   DEADLINE: <2025-02-28>
   - [ ] Watch Org-Mode tutorials
   - [ ] Experiment with different org features
+  - [ ] Set up a default size for doom
+  - [ ] Configure the org-roam to ask in which folder the note will go. aka organise notes into different sections
+  - [ ]
 
 * IN-PROGRESS Set Up Org-Roam for Task Management
   DEADLINE: <2025-02-25>
   - [ ] Configure `org-agenda`
   - [ ] Create recurring tasks
   - [ ] Link tasks to notes
-
+  - [ ] Learn about OTP verification in golang.
 * DONE Set Up Doom Emacs
   CLOSED: [2025-02-21]
   - [X] Install Doom Emacs
